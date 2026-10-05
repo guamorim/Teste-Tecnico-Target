@@ -1,0 +1,20 @@
+{
+    "movimentacoes": [
+        {
+            "id": 1,
+            "codigoProduto": 101,
+            "tipo": "Entrada",
+            "descricao": "Compra",
+            "quantidade": 50,
+            "estoqueFinal": 200
+        },
+        {
+            "id": 2,
+            "codigoProduto": 101,
+            "tipo": "Saída",
+            "descricao": "Uso Interno",
+            "quantidade": 50,
+            "estoqueFinal": 150
+        }
+    ]
+}
